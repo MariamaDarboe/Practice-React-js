@@ -9,7 +9,7 @@ function countdown(){
     }
 
     if (true) {
-        var msg = "Test var: I exist outside the if block!";
+        var msg = "Test var: I exist outside the 'if' block!";
     }
     console.log(msg);
 }
